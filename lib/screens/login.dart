@@ -2,7 +2,6 @@ import 'package:acarreos/firebase/firebase_auth.dart';
 import 'package:acarreos/widgets/passwordtextfield.dart';
 import 'package:acarreos/widgets/textfield.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatefulWidget {

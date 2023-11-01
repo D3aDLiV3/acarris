@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991585268640",
+    "project_id": "acarris-f083e",
+    "storage_bucket": "acarris-f083e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991585268640:android:f27b315870e3b983eeeac5",
+        "android_client_info": {
+          "package_name": "com.example.acarreos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3DvcreOixkMG-9cIyQ9NkYxbwN_8qoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

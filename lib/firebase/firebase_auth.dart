@@ -22,7 +22,7 @@ class FirebaseAuthService {
           email: email, password: password);
       return credential.user;
     } catch (e) {
-      print(e);
+      // print(e);
     }
     return null;
   }
